@@ -30,7 +30,7 @@ This project analyzes the sales data of **Ferns N Petals (FNP)** to uncover key 
 
 ## 📸 Dashboard Screenshots  
 ### Sales Overview  
-![Sales Overview](E:\Projects\Excel Projects\FNP-Sales-Analysis\Analysis)
+![Sales Overview](https://github.com/rakeshjoshi4/FNP-Sales-Analysis/blob/main/Analysis/Dashboard.png)
 
 ## 🔍 Insights & Findings
 - Sales peak during **festive occasions** like **Holi and Raksha Bandhan**.
