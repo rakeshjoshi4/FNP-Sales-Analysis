@@ -29,7 +29,7 @@ This project analyzes the sales data of **Ferns N Petals (FNP)** to uncover key 
 3. Use the **Screenshots** to get a quick view of the results without opening the Excel file.
 
 ## 🔍 Insights & Findings
-- Sales peak during **festive occasions** like **Diwali and Raksha Bandhan**.
+- Sales peak during **festive occasions** like **Holi and Raksha Bandhan**.
 - **Colors and Soft Toys** generate the highest revenue among product categories.
 - Customers spend an **average of ₹3,520.98 per order**.
 - **Imphal, Dhanbad, and Kavali** are among the top cities by order count.
