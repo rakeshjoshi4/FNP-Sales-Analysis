@@ -29,7 +29,7 @@ This project analyzes the sales data of **Ferns N Petals (FNP)** to uncover key 
 3. Use the **Screenshots** to get a quick view of the results without opening the Excel file.
 
 ## 📸 Dashboard Screenshots  
-### Sales Overview  
+### 🏷️ Sales Overview  
 ![Sales Overview](https://github.com/rakeshjoshi4/FNP-Sales-Analysis/blob/main/Analysis/Dashboard.png)
 
 ## 🔍 Insights & Findings
