@@ -28,6 +28,10 @@ This project analyzes the sales data of **Ferns N Petals (FNP)** to uncover key 
 2. Review the **Problem Statement PDF** to understand the key objectives.
 3. Use the **Screenshots** to get a quick view of the results without opening the Excel file.
 
+## 📸 Dashboard Screenshots  
+### Sales Overview  
+![Sales Overview](E:\Projects\Excel Projects\FNP-Sales-Analysis\Analysis)
+
 ## 🔍 Insights & Findings
 - Sales peak during **festive occasions** like **Holi and Raksha Bandhan**.
 - **Colors and Soft Toys** generate the highest revenue among product categories.
