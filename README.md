@@ -31,6 +31,7 @@ This project analyzes the sales data of **Ferns N Petals (FNP)** to uncover key 
 ## 📸 Dashboard Screenshot
 ### 🏷️ Sales Overview  
 ![Sales Overview](Analysis/Dashboard.png)
+
 ![PowerPivot](Analysis/insights.png)
 
 ## 🔍 Insights & Findings
